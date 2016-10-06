@@ -2,4 +2,4 @@
 
 lib is in /lib
 
-maybe docstrings soon ¯\\\_(ツ)\_/¯
+documentation is in the form of docstrings
